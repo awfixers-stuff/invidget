@@ -9,7 +9,7 @@
     "dd-trace": "^1.4.1",
     "express": "^5.1.0",
     "morgan": "^1.10.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.3.2",
     "sharp": "^0.34.5",
     "svgdom": "^0.1.8",
     "text-to-svg": "^3.1.5",
@@ -21,7 +21,7 @@
     "jest": "^30.2.0",
     "jest-fetch-mock": "^3.0.3",
     "nodemon": "^2.0.13",
-    "standard": "^16.0.3"
+    "standard": "^17.1.2"
   },
   "scripts": {
     "start": "node src/index.js",
